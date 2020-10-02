@@ -1,6 +1,5 @@
 import generator_main
 import generator_gui
-import os
 from webbrowser import *
 
 

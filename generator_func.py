@@ -1,6 +1,6 @@
 import generator_main
 import generator_gui
-from webbrowser import *
+import webbrowser
 
 
 """f = open("generator.html", "w")
